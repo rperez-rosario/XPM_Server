@@ -1,4 +1,4 @@
-# Introduction 
+8# Introduction 
 An ASP.NET Core Web Api to access and manipulate project data using EF Core on a PostgreSQL or SQL Server database.
 
 Data Entity Relationship Diagram
@@ -34,8 +34,6 @@ Endpoint Swagger View
 # Build and Test
 1. Create and configure a private application within the target Shopify store.
 2. Configure additional external services (ShipEngine, SendGrid, TaxJar and Stripe.) 
-3. Extract and deploy current .dacpac to SQL Server. Configure security, and business-domain 
-entities as needed.
-4. Web or folder deploy to IIS or Azure Cloud App (.NET Core 8.0 application pool), 
+3. Web or folder deploy to IIS or Azure Cloud App (.NET Core 8.0 application pool), 
 configure appsettings.json as needed.
-5. Build and execute Visual Studio solution.
+4. Build and execute Visual Studio solution.

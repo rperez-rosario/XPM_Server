@@ -1,4 +1,4 @@
-8# Introduction 
+# Introduction 
 An ASP.NET Core Web Api to access and manipulate project data using EF Core on a PostgreSQL or SQL Server database.
 
 Data Entity Relationship Diagram

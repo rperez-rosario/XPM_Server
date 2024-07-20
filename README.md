@@ -32,8 +32,7 @@ Endpoint Swagger View
 </ul>
 
 # Build and Test
-1. Create and configure a private application within the target Shopify store.
-2. Configure additional external services (ShipEngine, SendGrid, TaxJar and Stripe.) 
-3. Web or folder deploy to IIS or Azure Cloud App (.NET Core 8.0 application pool), 
+1. Web or folder deploy to IIS or Azure Cloud App (.NET Core 8.0 application pool), 
 configure appsettings.json as needed.
-4. Build and execute Visual Studio solution.
+
+2. Build and execute Visual Studio solution.
